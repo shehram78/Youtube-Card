@@ -1,0 +1,52 @@
+
+body {
+    font-family: sans-serif;
+    color: black
+}
+
+.container {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+ 
+
+   
+}
+
+
+
+.vedio-container {
+    width: 990px;
+    height: 300px;
+    padding: 2px; 
+    margin: 2px;
+    margin-left: 3px;
+    border-radius: 20px;
+
+  
+}
+
+.iframe {
+    width: 990px;
+    height: 500px;
+}
+
+.content h3 {
+   
+    margin: -80px 120px 0px;
+}
+
+.content p {
+    
+    margin: 10px 120px 0px;
+
+}
+
+.img2 img {
+    width: 80px;
+    height: 80px;
+   margin: 0px 0px 0px 20px;
+   padding-top: 30px;
+   margin-right: 50%;
+}
